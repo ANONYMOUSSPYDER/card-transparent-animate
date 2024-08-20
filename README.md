@@ -8,5 +8,5 @@ Customizable Social Media Links: Easily integrate and customize links to your fa
 HTML
 CSS
 🚀 Getting Started
-Clone the repository: git clone https://github.com/yourusername/your-repository.git
+Clone the repository: https://github.com/ANONYMOUSSPYDER/card-transparent-animate.git
 Open index.html in your browser to view the animated card in action.
